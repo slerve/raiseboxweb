@@ -43,7 +43,7 @@ body{
 
 /* Hero Section */
 .hero-section {
-    background-color: black; 
+    background-image: url("images/save.jpg"); 
     background-size: cover; 
     background-position: center; 
     background-repeat: no-repeat;
