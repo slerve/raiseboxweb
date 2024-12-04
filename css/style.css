@@ -52,13 +52,13 @@ body{
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    color: white;
+    color: black;
     text-align: center;
     padding: 0 20px;
 }
 
 .hero-section h1 {
-    color: white;
+    color: black;
     font-size: 4em;
     margin-bottom: 10px;
     text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.5); /* Add shadow for better text readability */
