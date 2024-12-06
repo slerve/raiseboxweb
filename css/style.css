@@ -226,7 +226,7 @@ footer .social-links a:hover {
         border-radius: 10px;
         border: 1px solid black;
         box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
-        text-align: center;
+        justify-content: center;
 }
 .project-page .progress-bar{
             height: 20px;
